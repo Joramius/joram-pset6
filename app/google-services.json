@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "869610364018",
+    "firebase_url": "https://joram-pset6.firebaseio.com",
+    "project_id": "joram-pset6",
+    "storage_bucket": "joram-pset6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869610364018:android:627e12b3ae0fac2f",
+        "android_client_info": {
+          "package_name": "vanoosterum.joram_pset6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869610364018-86i9845n8hq0d177nkedrsucf67rngg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vanoosterum.joram_pset6",
+            "certificate_hash": "f27790c90c64e714d0974d175364e9be1889c0ac"
+          }
+        },
+        {
+          "client_id": "869610364018-7hjfgv5h594pmrjd1i05mtss87do46s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7hSygtl1Ai7csuXrs8xkrb0MAXrrTi_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869610364018-7hjfgv5h594pmrjd1i05mtss87do46s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
